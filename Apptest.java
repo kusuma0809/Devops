@@ -4,7 +4,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import Dev_java.App;
-
+Run All
 public class Apptest {
 	@Test
 	public void testLogin1 ()
